@@ -1,43 +1,48 @@
-#wrapper{
+#wrapper {
     width: 960px;
     font-family: sans-serif;
 }
 
-#menElement{
-    height:130px;
+#menElement {
+    height: 130px;
     line-height: 130px;
     text-align: right;
-    width:860px;
+    width: 860px;
 }
-#logo{
+
+#logo {
     width: 100px
 }
-#banner{
+
+#banner {
     background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
     background-size: cover;
     width: 960px;
     height: 554px;
     position: relative;
 }
-#bannerShaded{
+
+#bannerShaded {
     width: 480px;
     background-color: black;
     opacity: 0.5;
 }
-#bannerWordingOne{
+
+#bannerWordingOne {
     color: white;
     padding-left: 30px;
     padding-top: 111px;
     position: fixed;
     font-size: 95%;
 }
-#bannerWordingTwo{
-    color:blue;
+
+#bannerWordingTwo {
+    color: blue;
     padding-left: 286px;
     padding-top: 155px;
     position: fixed;
-
 }
+
 #translucentPart {
     position: absolute;
     top: 0;
@@ -47,77 +52,94 @@
     background-color: black;
     opacity: 0.5;
 }
-#footer{
+
+#footer {
     height: 100px;
     line-height: 100px;
     width: 960px;
     background-color: black;
 }
-#copyRightText{
+
+#copyRightText {
     font-size: 130%;
     color: white;
 }
-#leftBar{
+
+#leftBar {
     width: 331px;
     height: 325px;
 }
-#leftBarImage{
+
+#leftBarImage {
     padding-left: 20px;
     padding-top: 20px;
 }
-#subHead{
+
+#subHead {
     padding-left: 17px;
     height: 32px;
     font-size: 79%;
 }
-#imgSubheadingWords{
+
+#imgSubheadingWords {
     font-size: 100%;
     padding-left: 17px;
 }
-#rightSideBar{
+
+#rightSideBar {
     padding-left: 25px;
     height: 550px;
     width: 590px;
 }
-#rightHeading{
+
+#rightHeading {
     font-size: 130%;
 }
-#rightSideText{
+
+#rightSideText {
     padding-left: 42px;
 }
-#table{
+
+#table {
     padding-left: 200px;
     padding-top: 15px;
 }
 
-.border{
+.border {
     border: 1px black solid;
 }
-.textAlignCenter{
+
+.textAlignCenter {
     text-align: center;
 }
-.marginAutoCenter{
+
+.marginAutoCenter {
     margin-right: auto;
     margin-left: auto;
 }
-.floatLeft{
+
+.floatLeft {
     float: left;
 }
-.floatRight{
+
+.floatRight {
     float: right;
 }
-.displayInline{
+
+.displayInline {
     display: inline;
 }
-.marginClear{
+
+.marginClear {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: 0px;
-    margin-top:0px;
+    margin-top: 0px;
 }
-.paddingClear{
+
+.paddingClear {
     padding-left: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
-    padding-top:0px;
+    padding-top: 0px;
 }
