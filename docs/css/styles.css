@@ -1,5 +1,6 @@
 #wrapper{
     width: 960px;
+    font-family: sans-serif;
 }
 
 #menElement{
@@ -41,7 +42,7 @@
 #leftBar{
     border: 1px black solid;
     width: 331px;
-    height: 400px;
+    height: 325px;
 }
 #leftBarImage{
     padding-left: 20px;
@@ -55,6 +56,14 @@
 #imgSubheadingWords{
     font-size: 100%;
     padding-left: 17px;
+}
+#rightSideBar{
+    padding-left: 25px;
+    height: 550px;
+    width: 590px;
+}
+#rightHeading{
+    font-size: 130%;
 }
 .marginAutoCenter{
     margin-right: auto;
