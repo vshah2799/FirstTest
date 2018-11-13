@@ -17,6 +17,16 @@
     width: 960px;
     height: 554px;
 }
+#bannerWordingOne{
+    color: white;
+    padding-left: 50px;
+    padding-top: 111px;
+}
+#bannerWordingTwo{
+    color:blue;
+    padding-left: 304px;
+    padding-top: 0px;
+}
 #footer{
     height: 100px;
     line-height: 100px;
