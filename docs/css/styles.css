@@ -38,6 +38,24 @@
     font-size: 130%;
     color: white;
 }
+#leftBar{
+    border: 1px black solid;
+    width: 331px;
+    height: 400px;
+}
+#leftBarImage{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#subHead{
+    padding-left: 17px;
+    height: 32px;
+    font-size: 79%;
+}
+#imgSubheadingWords{
+    font-size: 100%;
+    padding-left: 17px;
+}
 .marginAutoCenter{
     margin-right: auto;
     margin-left: auto;
