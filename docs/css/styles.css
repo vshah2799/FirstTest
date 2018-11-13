@@ -17,16 +17,35 @@
     background-size: cover;
     width: 960px;
     height: 554px;
+    position: relative;
+}
+#bannerShaded{
+    width: 480px;
+    background-color: black;
+    opacity: 0.5;
 }
 #bannerWordingOne{
     color: white;
-    padding-left: 50px;
+    padding-left: 30px;
     padding-top: 111px;
+    position: fixed;
+    font-size: 95%;
 }
 #bannerWordingTwo{
     color:blue;
-    padding-left: 304px;
-    padding-top: 0px;
+    padding-left: 286px;
+    padding-top: 155px;
+    position: fixed;
+
+}
+#translucentPart {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
 }
 #footer{
     height: 100px;
@@ -70,6 +89,7 @@
     padding-left: 200px;
     padding-top: 15px;
 }
+
 .border{
     border: 1px black solid;
 }
