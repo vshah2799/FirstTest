@@ -2,10 +2,6 @@
     width: 960px;
 }
 
-.marginAutoCenter{
-    margin-right: auto;
-    margin-left: auto;
-}
 #menElement{
     height:100px;
     line-height: 100px;
@@ -19,7 +15,22 @@
     background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
     background-size: cover;
     width: 960px;
-    height: 400px;
+    height: 554px;
+}
+#footer{
+    height: 100px;
+    line-height: 100px;
+    width: 960px;
+    text-align: center;
+    background-color: black;
+}
+#copyRightText{
+    font-size: 130%;
+    color: white;
+}
+.marginAutoCenter{
+    margin-right: auto;
+    margin-left: auto;
 }
 .floatLeft{
     float: left;
