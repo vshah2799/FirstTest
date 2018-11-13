@@ -1,0 +1,8 @@
+#wrapper{
+    width: 960px;
+}
+
+.marginAutoCenter{
+    margin-right: auto;
+    margin-left: auto;
+}
